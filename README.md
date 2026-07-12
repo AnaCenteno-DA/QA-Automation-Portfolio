@@ -103,7 +103,7 @@ QA-Automation-Portfolio/
 
 - ✅ QA Automation Portfolio created
 - 🚧 Playwright Enterprise Framework
-- 🚧 Performance Testing with k6
+- ✅ [K6 Performance Testing](https://github.com/AnaCenteno-DA/QA_Project_K6_Performance)
 - ⏳ GitHub Actions CI/CD
 - ⏳ Mobile Automation with Appium
 - ⏳ AI & LLM Testing
