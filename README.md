@@ -114,7 +114,5 @@ QA-Automation-Portfolio/
 
 - **LinkedIn:** <https://www.linkedin.com/in/ana-centeno-tech>
 - **GitHub:** <https://github.com/AnaCenteno-DA>
--
-- ## 🔙 Back to GitHub Profile
 
 [![Back to Profile](https://img.shields.io/badge/Back%20to%20GitHub-Profile-blue?style=for-the-badge)](https://github.com/AnaCenteno-DA)
