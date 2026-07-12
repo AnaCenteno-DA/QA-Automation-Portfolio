@@ -1,70 +1,120 @@
 
-# 🤖 QA Automation Testing Portfolio
+# 🤖 QA Automation Portfolio
 
-This repository will contain my QA Automation projects as I progress through my training.
+Welcome to my **QA Automation Portfolio**.
 
-I am currently starting my QA Automation journey and will be building real-world projects using industry tools and frameworks.
+This repository showcases real-world automation testing projects developed as I advance my Software Quality Assurance skills. Each project is designed to demonstrate industry best practices, clean architecture, maintainable code, and modern testing techniques.
 
----
-
-## 👩‍💻 About Me
-
-I am a QA professional with experience in Manual Testing and IT support, currently expanding into QA Automation to strengthen my technical testing skills.
+My objective is to build a professional portfolio that reflects practical experience with automation frameworks, performance testing, mobile testing, Continuous Integration, and AI-powered testing.
 
 ---
 
-## 🧪 Planned Automation Skills
+# 👩‍💻 About Me
 
-As part of my upcoming training, I will be working on:
-
-- Selenium WebDriver
-- Test automation frameworks
-- API automation testing
-- Test scripts in Python / Java (depending on course)
-- CI/CD integration basics
+I am a **QA Analyst** with experience in Manual Testing, Functional Testing, defect management, and IT Support. I am currently expanding my expertise into **QA Automation Engineering** by building real-world projects using modern automation tools and best practices.
 
 ---
 
-## 📁 Planned Projects (In Progress)
+# 🛠 Technologies & Tools
 
-The following projects will be added during my course:
-
-### 🤖 1. Web UI Automation Project
-- Selenium automated test scripts
-- Functional UI validation
-
-### 🔌 2. API Automation Project
-- API testing using Postman / automation tools
-- Request validation and assertions
-
-### ⚙️ 3. Test Automation Framework
-- Structured automation framework
-- Reusable test components
-
-### 🚀 4. Test of Performance using K6
+- Playwright
+- TypeScript
+- JavaScript
+- k6
+- Appium
+- Java
+- Git & GitHub
+- GitHub Actions (CI/CD)
+- Visual Studio Code
+- REST APIs
 
 ---
 
-## 📅 Timeline
+# 🧪 Skills Demonstrated
 
-- Course Start Date: 27 of this month  
-- Project Development: During course sessions  
-- Continuous updates will be added weekly
+Throughout this portfolio, I will develop projects focused on:
+
+- UI Test Automation
+- End-to-End Testing
+- Enterprise Test Framework Design
+- Page Object Model (POM)
+- Locator Strategies
+- Performance Testing
+- Load Testing
+- Stress Testing
+- Spike Testing
+- Smoke Testing
+- Soak Testing
+- Mobile Test Automation
+- Continuous Integration (CI/CD)
+- GitHub Actions
+- AI & LLM Testing
 
 ---
 
-## 🧠 Goal
+# 📁 Portfolio Projects
 
-To build practical QA Automation skills and transition into a QA Automation role by developing real-world testing projects.
+| Project | Description | Status |
+|---------|-------------|:------:|
+| 🎭 Playwright Enterprise Framework | UI automation framework built with Playwright and TypeScript following enterprise architecture practices. | 🚧 In Progress |
+| ⚡ Performance Testing with k6 | Load, Stress, Spike, Smoke, and Soak testing using k6. | 🚧 In Progress |
+| 🔄 GitHub Actions CI/CD | Automated execution of test suites using GitHub Actions. | ⏳ Planned |
+| 📱 Mobile Automation with Appium | Android mobile automation using Appium and Java. | ⏳ Planned |
+| 🤖 AI & LLM Testing | Validation of AI applications, prompt engineering, and LLM testing strategies. | ⏳ Planned |
 
 ---
 
-## 📫 Contact
+# 📅 Learning Roadmap
 
-LinkedIn: https://www.linkedin.com/in/ana-centeno-tech/
+This portfolio is being developed through hands-on automation projects covering:
+
+- Enterprise Automation Frameworks
+- Performance Testing with k6
+- Continuous Integration using GitHub Actions
+- Mobile Automation with Appium
+- AI & Large Language Model (LLM) Testing
+
+New projects and improvements will be added as I continue developing my automation skills.
 
 ---
 
-## 🔙 Back to GitHub Profile
+# 🎯 Goal
+
+To build a professional QA Automation portfolio that demonstrates practical experience with modern testing tools and industry best practices while preparing for a QA Automation Engineer role.
+
+---
+
+# 📂 Repository Structure
+
+```text
+QA-Automation-Portfolio/
+│
+├── Playwright-Enterprise-Framework/
+├── Performance-Testing-K6/
+├── GitHub-Actions-CI/
+├── Mobile-Automation-Appium/
+├── AI-LLM-Testing/
+└── README.md
+```
+
+---
+
+# 📈 Current Progress
+
+- ✅ QA Automation Portfolio created
+- 🚧 Playwright Enterprise Framework
+- 🚧 Performance Testing with k6
+- ⏳ GitHub Actions CI/CD
+- ⏳ Mobile Automation with Appium
+- ⏳ AI & LLM Testing
+
+---
+
+# 📫 Connect With Me
+
+- **LinkedIn:** <https://www.linkedin.com/in/ana-centeno-tech>
+- **GitHub:** <https://github.com/AnaCenteno-DA>
+-
+- ## 🔙 Back to GitHub Profile
 
 [![Back to Profile](https://img.shields.io/badge/Back%20to%20GitHub-Profile-blue?style=for-the-badge)](https://github.com/AnaCenteno-DA)
