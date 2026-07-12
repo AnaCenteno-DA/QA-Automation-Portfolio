@@ -41,6 +41,8 @@ The following projects will be added during my course:
 - Structured automation framework
 - Reusable test components
 
+### 🚀 4. Test of Performance using K6
+
 ---
 
 ## 📅 Timeline
