@@ -56,7 +56,8 @@ Throughout this portfolio, I will develop projects focused on:
 
 | Project | Description | Status |
 |---------|-------------|:------:|
-| 🎭 Playwright Enterprise Framework | UI automation framework built with Playwright and TypeScript following enterprise architecture practices. | 🚧 In Progress |
+| 🎭 Playwright Enterprise Framework | UI automation framework built with Playwright and TypeScript following enterprise architecture practices. | 🚧 In Progress | 
+| 📬 API Testing with Postman | REST API testing with Postman (GET, POST, validation, and automation) | 🚧 In Progress |
 | ⚡ Performance Testing with k6 | Load, Stress, Spike, Smoke, and Soak testing using k6. | ✅ Created |
 | 🔄 GitHub Actions CI/CD | Automated execution of test suites using GitHub Actions. | ⏳ Planned |
 | 📱 Mobile Automation with Appium | Android mobile automation using Appium and Java. | ⏳ Planned |
@@ -103,6 +104,7 @@ QA-Automation-Portfolio/
 
 - ✅ QA Automation Portfolio created
 - 🚧 Playwright Enterprise Framework
+- 🚧 [API Testing with Postman](https://github.com/AnaCenteno-DA/QA_API_Testing_Postman/tree/main)
 - ✅ [K6 Performance Testing](https://github.com/AnaCenteno-DA/Performance_Testing_K6)
 - ⏳ GitHub Actions CI/CD
 - ⏳ Mobile Automation with Appium
