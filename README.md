@@ -56,8 +56,8 @@ Throughout this portfolio, I will develop projects focused on:
 
 | Project | Description | Status |
 |---------|-------------|:------:|
-| 🎭 [Playwright Enterprise Framework](https://github.com/AnaCenteno-DA/QA_Project1_PlayWright) | UI automation framework built with Playwright and TypeScript following enterprise architecture practices. | ✅ Created  | 
-| 📬 [API Testing with Postman](https://github.com/AnaCenteno-DA/QA_API_Testing_Postman/tree/main) | REST API testing with Postman (GET, POST, validation, and automation) | ✅ Created |
+| 🎭 [Playwright Enterprise Framework](https://github.com/AnaCenteno-DA/QA_Project1_PlayWright) | UI automation framework built with Playwright and TypeScript using Page Object Model (POM), reusable components, and industry-standard automation practices. | ✅ Created  | 
+| 📬 [API Testing with Postman](https://github.com/AnaCenteno-DA/QA_API_Testing_Postman/tree/main) | REST API testing using Postman collections, environments, request validation, and automated test scripts. | ✅ Created |
 | ⚡ [Performance Testing with k6](https://github.com/AnaCenteno-DA/Performance_Testing_K6) | Load, Stress, Spike, Smoke, and Soak testing using k6. | ✅ Created |
 | 🔄 GitHub Actions CI/CD | Automated execution of test suites using GitHub Actions. | 🚧 In Progress|
 | 📱 Mobile Automation with Appium | Android mobile automation using Appium and Java. |🚧 In Progress|
@@ -101,9 +101,12 @@ QA-Automation-Portfolio/
 
 # 📈 Current Progress
 
-- 🚧 [GitHub Actions CI/CD](https://github.com/AnaCenteno-DA/QA_Automation_CI_CD)
-- 🚧 Mobile Automation with Appium
-- ⏳ AI & LLM Testing
+✅ Playwright Enterprise Framework
+✅ API Testing with Postman
+✅ Performance Testing with k6
+✅ GitHub Actions CI/CD Pipeline
+🚧 Mobile Automation with Appium
+⏳ AI & LLM Testing
 
 ---
 ## 📫 Contact
