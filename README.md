@@ -101,12 +101,12 @@ QA-Automation-Portfolio/
 
 # 📈 Current Progress
 
-✅ Playwright Enterprise Framework
-✅ API Testing with Postman
-✅ Performance Testing with k6
-🚧 GitHub Actions CI/CD Pipeline
-🚧 Mobile Automation with Appium
-⏳ AI & LLM Testing
+- ✅ Playwright Enterprise Framework
+- ✅ API Testing with Postman
+- ✅ Performance Testing with k6
+- 🚧 GitHub Actions CI/CD Pipeline
+- 🚧 Mobile Automation with Appium
+- ⏳ AI & LLM Testing
 
 ---
 ## 📫 Contact
