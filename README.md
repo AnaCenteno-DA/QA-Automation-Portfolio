@@ -56,7 +56,7 @@ Throughout this portfolio, I will develop projects focused on:
 
 | Project | Description | Status |
 |---------|-------------|:------:|
-| 🎭 Playwright Enterprise Framework | UI automation framework built with Playwright and TypeScript following enterprise architecture practices. | 🚧 In Progress | 
+| 🎭 Playwright Enterprise Framework | UI automation framework built with Playwright and TypeScript following enterprise architecture practices. | ✅ Created  | 
 | 📬 API Testing with Postman | REST API testing with Postman (GET, POST, validation, and automation) | ✅ Created |
 | ⚡ Performance Testing with k6 | Load, Stress, Spike, Smoke, and Soak testing using k6. | ✅ Created |
 | 🔄 GitHub Actions CI/CD | Automated execution of test suites using GitHub Actions. | 🚧 In Progress|
