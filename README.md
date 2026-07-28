@@ -60,7 +60,7 @@ Throughout this portfolio, I will develop projects focused on:
 | 📬 API Testing with Postman | REST API testing with Postman (GET, POST, validation, and automation) | ✅ Created |
 | ⚡ Performance Testing with k6 | Load, Stress, Spike, Smoke, and Soak testing using k6. | ✅ Created |
 | 🔄 GitHub Actions CI/CD | Automated execution of test suites using GitHub Actions. | 🚧 In Progress|
-| 📱 Mobile Automation with Appium | Android mobile automation using Appium and Java. | ⏳ Planned |
+| 📱 Mobile Automation with Appium | Android mobile automation using Appium and Java. |🚧 In Progress|
 | 🤖 AI & LLM Testing | Validation of AI applications, prompt engineering, and LLM testing strategies. | ⏳ Planned |
 
 ---
