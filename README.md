@@ -103,7 +103,7 @@ QA-Automation-Portfolio/
 # 📈 Current Progress
 
 - ✅ QA Automation Portfolio created
-- 🚧 [Playwright Enterprise Framework](https://github.com/AnaCenteno-DA/QA_Project1_PlayWright)
+- ✅ [Playwright Enterprise Framework](https://github.com/AnaCenteno-DA/QA_Project1_PlayWright)
 - ✅ [API Testing with Postman](https://github.com/AnaCenteno-DA/QA_API_Testing_Postman/tree/main)
 - ✅ [K6 Performance Testing](https://github.com/AnaCenteno-DA/Performance_Testing_K6)
 - 🚧  [GitHub Actions CI/CD](https://github.com/AnaCenteno-DA/QA_Automation_CI_CD)
