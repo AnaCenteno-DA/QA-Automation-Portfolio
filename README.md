@@ -60,7 +60,7 @@ Throughout this portfolio, I will develop projects focused on:
 | 📬 [API Testing with Postman](https://github.com/AnaCenteno-DA/QA_API_Testing_Postman/tree/main) | REST API testing using Postman collections, environments, request validation, and automated test scripts. | ✅ Completed |
 | ⚡ [Performance Testing with k6](https://github.com/AnaCenteno-DA/Performance_Testing_K6) | Load, Stress, Spike, Smoke, and Soak testing using k6. | ✅ Completed |
 | 🔄[GitHub Actions CI/CD](https://github.com/AnaCenteno-DA/QA_Automation_CI_CD)| Automated execution of test suites using GitHub Actions. | ✅ Completed|
-| 📱[Mobile Automation with Appium](https://github.com/AnaCenteno-DA/QA_Mobile_Automation_Appium/blob/main/README.md) | Android mobile automation using Appium and Java. |🚧 In Progress|
+| 📱[Mobile Automation with Appium](https://github.com/AnaCenteno-DA/QA_Mobile_Automation_Appium/blob/main/README.md) | Android mobile automation using Appium and Java. |✅ Completed|
 | 🤖 AI & LLM Testing | Validation of AI applications, prompt engineering, and LLM testing strategies. | ⏳ Planned |
 
 ---
@@ -105,7 +105,7 @@ QA-Automation-Portfolio/
 - ✅ API Testing with Postman
 - ✅ Performance Testing with k6
 - ✅ GitHub Actions CI/CD Pipeline
-- 🚧 Mobile Automation with Appium
+- ✅ Mobile Automation with Appium
 - ⏳ AI & LLM Testing
 
 ---
