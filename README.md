@@ -54,6 +54,15 @@ Throughout this portfolio, I will develop projects focused on:
 
 # 📁 Portfolio Projects
 
+| Project                                | Technologies            | Skills Demonstrated                         |
+| -------------------------------------- | ----------------------- | ------------------------------------------- |
+| 🎭 [Playwright Enterprise Framework](https://github.com/AnaCenteno-DA/QA_Project1_PlayWright)| Playwright + TypeScript | POM, E2E testing, reusable components       |
+| 📬 [API Testing with Postman](https://github.com/AnaCenteno-DA/QA_API_Testing_Postman/tree/main)| Postman                 | REST API testing, assertions, environments  |
+| ⚡ [Performance Testing with k6](https://github.com/AnaCenteno-DA/Performance_Testing_K6)| k6                      | Smoke, Load, Stress, Spike, Soak testing    |
+| 📱 [Mobile Automation with Appium](https://github.com/AnaCenteno-DA/QA_Mobile_Automation_Appium/blob/main/README.md)| Appium + Java           | Android automation, UiAutomator2            |
+| 🔄 [GitHub Actions CI/CD](https://github.com/AnaCenteno-DA/QA_Automation_CI_CD)| GitHub Actions | Automated test execution, CI/CD integration |
+
+
 | Project | Description | Status |
 |---------|-------------|:------:|
 | 🎭 [Playwright Enterprise Framework](https://github.com/AnaCenteno-DA/QA_Project1_PlayWright) | UI automation framework built with Playwright and TypeScript using Page Object Model (POM), reusable components, and industry-standard automation practices. | ✅ Completed  | 
