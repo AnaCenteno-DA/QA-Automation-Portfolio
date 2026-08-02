@@ -106,14 +106,12 @@ This portfolio demonstrates experience and hands-on practice with:
 
 | Project                                 | Technologies               | What It Demonstrates                                        | Status         |
 | --------------------------------------- | -------------------------- | ----------------------------------------------------------- | -------------- |
-| 🎭 [Playwright Enterprise Framework](#) | Playwright, TypeScript     | E2E automation, POM, reusable components, test architecture | ✅ Completed    |
-| 📬 [API Testing with Postman](#)        | Postman, REST APIs         | API validation, assertions, environments and test scripts   | ✅ Completed    |
-| ⚡ [Performance Testing with k6](#)      | k6, JavaScript             | Smoke, Load, Stress, Spike and Soak testing                 | ✅ Completed    |
-| 🔄 [GitHub Actions CI/CD](#)            | GitHub Actions, Playwright | Automated test execution and CI workflows                   | ✅ Completed    |
-| 📱 [Mobile Automation with Appium](#)   | Appium, Java, Android      | Native Android mobile test automation                       | ✅ Completed    |
+| 🎭 [Playwright Enterprise Framework](https://github.com/AnaCenteno-DA/QA_Project1_PlayWright) | Playwright, TypeScript     | E2E automation, POM, reusable components, test architecture | ✅ Completed    |
+| 📬 [API Testing with Postman](https://github.com/AnaCenteno-DA/QA_API_Testing_Postman)        | Postman, REST APIs         | API validation, assertions, environments and test scripts   | ✅ Completed    |
+| ⚡ [Performance Testing with k6](https://github.com/AnaCenteno-DA/Performance_Testing_K6)      | k6, JavaScript             | Smoke, Load, Stress, Spike and Soak testing                 | ✅ Completed    |
+| 🔄 [GitHub Actions CI/CD](https://github.com/AnaCenteno-DA/QA_Automation_CI_CD)            | GitHub Actions, Playwright | Automated test execution and CI workflows                   | ✅ Completed    |
+| 📱 [Mobile Automation with Appium](https://github.com/AnaCenteno-DA/QA_Mobile_Automation_Appium)   | Appium, Java, Android      | Native Android mobile test automation                       | ✅ Completed    |
 | 🤖 AI & LLM Testing                     | AI/LLM tools               | AI application and LLM testing strategies                   | 🚧 In Progress |
-
-> **Note:** Replace the `#` links above with the actual repository URLs once the project links are confirmed.
 
 ---
 
