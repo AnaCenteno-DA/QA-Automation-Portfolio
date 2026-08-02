@@ -58,19 +58,11 @@ Throughout this portfolio, I will develop projects focused on:
 | -------------------------------------- | ----------------------- | ------------------------------------------- |:------:|
 | 🎭 [Playwright Enterprise Framework](https://github.com/AnaCenteno-DA/QA_Project1_PlayWright)| Playwright + TypeScript | POM, E2E testing, reusable components       | ✅ Completed |
 | 📬 [API Testing with Postman](https://github.com/AnaCenteno-DA/QA_API_Testing_Postman/tree/main)| Postman                 | REST API testing, assertions, environments  | ✅ Completed |
-| ⚡ [Performance Testing with k6](https://github.com/AnaCenteno-DA/Performance_Testing_K6)| k6                      | Smoke, Load, Stress, Spike, Soak testing    |
+| ⚡ [Performance Testing with k6](https://github.com/AnaCenteno-DA/Performance_Testing_K6)| k6                      | Smoke, Load, Stress, Spike, Soak testing     | ✅ Completed |
 | 📱 [Mobile Automation with Appium](https://github.com/AnaCenteno-DA/QA_Mobile_Automation_Appium/blob/main/README.md)| Appium + Java           | Android automation, UiAutomator2            | ✅ Completed |
 | 🔄 [GitHub Actions CI/CD](https://github.com/AnaCenteno-DA/QA_Automation_CI_CD)| GitHub Actions | Automated test execution, CI/CD integration | ✅ Completed |
 | 🤖 AI & LLM Testing | Validation of AI applications, prompt engineering, and LLM testing strategies. |Validation of AI applications, prompt engineering, and LLM testing strategies.  | ⏳ Planned |
 
-| Project | Description | Status |
-|---------|-------------|:------:|
-| 🎭 [Playwright Enterprise Framework](https://github.com/AnaCenteno-DA/QA_Project1_PlayWright) | UI automation framework built with Playwright and TypeScript using Page Object Model (POM), reusable components, and industry-standard automation practices. | ✅ Completed  | 
-| 📬 [API Testing with Postman](https://github.com/AnaCenteno-DA/QA_API_Testing_Postman/tree/main) | REST API testing using Postman collections, environments, request validation, and automated test scripts. | ✅ Completed |
-| ⚡ [Performance Testing with k6](https://github.com/AnaCenteno-DA/Performance_Testing_K6) | Load, Stress, Spike, Smoke, and Soak testing using k6. | ✅ Completed |
-| 🔄[GitHub Actions CI/CD](https://github.com/AnaCenteno-DA/QA_Automation_CI_CD)| Automated execution of test suites using GitHub Actions. | ✅ Completed|
-| 📱[Mobile Automation with Appium](https://github.com/AnaCenteno-DA/QA_Mobile_Automation_Appium/blob/main/README.md) | Android mobile automation using Appium and Java. |✅ Completed|
-| 🤖 AI & LLM Testing | Validation of AI applications, prompt engineering, and LLM testing strategies. | ⏳ Planned |
 
 ---
 
