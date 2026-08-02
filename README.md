@@ -56,12 +56,12 @@ Throughout this portfolio, I will develop projects focused on:
 
 | Project                                | Technologies            | Skills Demonstrated                         |
 | -------------------------------------- | ----------------------- | ------------------------------------------- |
-| 🎭 [Playwright Enterprise Framework](https://github.com/AnaCenteno-DA/QA_Project1_PlayWright)| Playwright + TypeScript | POM, E2E testing, reusable components       |
-| 📬 [API Testing with Postman](https://github.com/AnaCenteno-DA/QA_API_Testing_Postman/tree/main)| Postman                 | REST API testing, assertions, environments  |
+| 🎭 [Playwright Enterprise Framework](https://github.com/AnaCenteno-DA/QA_Project1_PlayWright)| Playwright + TypeScript | POM, E2E testing, reusable components       | ✅ Completed |
+| 📬 [API Testing with Postman](https://github.com/AnaCenteno-DA/QA_API_Testing_Postman/tree/main)| Postman                 | REST API testing, assertions, environments  | ✅ Completed |
 | ⚡ [Performance Testing with k6](https://github.com/AnaCenteno-DA/Performance_Testing_K6)| k6                      | Smoke, Load, Stress, Spike, Soak testing    |
-| 📱 [Mobile Automation with Appium](https://github.com/AnaCenteno-DA/QA_Mobile_Automation_Appium/blob/main/README.md)| Appium + Java           | Android automation, UiAutomator2            |
-| 🔄 [GitHub Actions CI/CD](https://github.com/AnaCenteno-DA/QA_Automation_CI_CD)| GitHub Actions | Automated test execution, CI/CD integration |
-
+| 📱 [Mobile Automation with Appium](https://github.com/AnaCenteno-DA/QA_Mobile_Automation_Appium/blob/main/README.md)| Appium + Java           | Android automation, UiAutomator2            | ✅ Completed |
+| 🔄 [GitHub Actions CI/CD](https://github.com/AnaCenteno-DA/QA_Automation_CI_CD)| GitHub Actions | Automated test execution, CI/CD integration | ✅ Completed |
+| 🤖 AI & LLM Testing | Validation of AI applications, prompt engineering, and LLM testing strategies. |Validation of AI applications, prompt engineering, and LLM testing strategies.  | ⏳ Planned |
 
 | Project | Description | Status |
 |---------|-------------|:------:|
