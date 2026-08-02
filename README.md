@@ -61,7 +61,7 @@ Throughout this portfolio, I will develop projects focused on:
 | ⚡ [Performance Testing with k6](https://github.com/AnaCenteno-DA/Performance_Testing_K6)| k6                      | Smoke, Load, Stress, Spike, Soak testing     | ✅ Completed |
 | 📱 [Mobile Automation with Appium](https://github.com/AnaCenteno-DA/QA_Mobile_Automation_Appium/blob/main/README.md)| Appium + Java           | Android automation, UiAutomator2            | ✅ Completed |
 | 🔄 [GitHub Actions CI/CD](https://github.com/AnaCenteno-DA/QA_Automation_CI_CD)| GitHub Actions | Automated test execution, CI/CD integration | ✅ Completed |
-| 🤖 AI & LLM Testing | Validation of AI applications, prompt engineering, and LLM testing strategies. |Validation of AI applications, prompt engineering, and LLM testing strategies.  | ⏳ Planned |
+| 🤖 AI & LLM Testing | Validation of AI applications, prompt engineering, and LLM testing strategies. |Validation of AI applications, prompt engineering, and LLM testing strategies.  | ⏳ In Progress |
 
 
 ---
