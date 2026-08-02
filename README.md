@@ -54,8 +54,8 @@ Throughout this portfolio, I will develop projects focused on:
 
 # 📁 Portfolio Projects
 
-| Project                                | Technologies            | Skills Demonstrated                         |
-| -------------------------------------- | ----------------------- | ------------------------------------------- |
+| Project                                | Technologies            | Skills Demonstrated                         | Status |
+| -------------------------------------- | ----------------------- | ------------------------------------------- |:------:|
 | 🎭 [Playwright Enterprise Framework](https://github.com/AnaCenteno-DA/QA_Project1_PlayWright)| Playwright + TypeScript | POM, E2E testing, reusable components       | ✅ Completed |
 | 📬 [API Testing with Postman](https://github.com/AnaCenteno-DA/QA_API_Testing_Postman/tree/main)| Postman                 | REST API testing, assertions, environments  | ✅ Completed |
 | ⚡ [Performance Testing with k6](https://github.com/AnaCenteno-DA/Performance_Testing_K6)| k6                      | Smoke, Load, Stress, Spike, Soak testing    |
