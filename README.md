@@ -11,7 +11,7 @@ My objective is to build a professional portfolio that reflects practical experi
 
 # 👩‍💻 About Me
 
-I am a **QA Analyst** with experience in Manual Testing, Functional Testing, defect management, and IT Support. I am currently expanding my expertise into **QA Automation Engineering** by building real-world projects using modern automation tools and best practices.
+QA Analyst transitioning into QA Automation Engineering, with hands-on experience building automated testing projects across web, API, mobile, performance, and CI/CD environments.
 
 ---
 
