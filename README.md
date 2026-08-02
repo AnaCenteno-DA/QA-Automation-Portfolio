@@ -138,7 +138,7 @@ A web UI automation framework developed with **Playwright and TypeScript**, foll
 
 `Playwright` `TypeScript` `Node.js` `Git` `GitHub`
 
-🔗 **Repository:** [View Playwright Project](#)
+🔗 **Repository:** [View Playwright Project](https://github.com/AnaCenteno-DA/QA_Project1_PlayWright)
 
 ---
 
@@ -163,7 +163,7 @@ A REST API testing project using **Postman**, focused on validating API requests
 
 `Postman` `REST API` `JavaScript`
 
-🔗 **Repository:** [View API Testing Project](#)
+🔗 **Repository:** [View API Testing Project](https://github.com/AnaCenteno-DA/QA_API_Testing_Postman)
 
 ---
 
@@ -197,7 +197,7 @@ The project includes multiple performance testing scenarios:
 
 `k6` `JavaScript`
 
-🔗 **Repository:** [View Performance Testing Project](#)
+🔗 **Repository:** [View Performance Testing Project](https://github.com/AnaCenteno-DA/Performance_Testing_K6)
 
 ---
 
@@ -223,7 +223,7 @@ The project demonstrates how automated testing can be integrated into a developm
 
 `GitHub Actions` `YAML` `Playwright` `Node.js` `GitHub`
 
-🔗 **Repository:** [View CI/CD Project](#)
+🔗 **Repository:** [View CI/CD Project](https://github.com/AnaCenteno-DA/QA_Automation_CI_CD)
 
 ---
 
@@ -251,7 +251,7 @@ The project demonstrates automated interaction with a native Android application
 
 `Appium` `Java` `UiAutomator2` `Android Studio` `Android SDK` `ADB`
 
-🔗 **Repository:** [View Mobile Automation Project](#)
+🔗 **Repository:** [View Mobile Automation Project](https://github.com/AnaCenteno-DA/QA_Mobile_Automation_Appium)
 
 ---
 
