@@ -112,7 +112,7 @@ This portfolio demonstrates experience and hands-on practice with:
 | 🔄 [GitHub Actions CI/CD](https://github.com/AnaCenteno-DA/QA_Automation_CI_CD)            | GitHub Actions, Playwright | Automated test execution and CI workflows                   | ✅ Completed    |
 | 📱 [Mobile Automation with Appium](https://github.com/AnaCenteno-DA/QA_Mobile_Automation_Appium)   | Appium, Java, Android      | Native Android mobile test automation                       | ✅ Completed    |
 | 🤖 AI & LLM Testing                     | AI/LLM tools               | AI application and LLM testing strategies                   | 🚧 In Progress |
-| 🧪 Playwright & Api Testing             |  Playwright, TypeScript, APIs | Intergration Testings                   | ✅ Completed  |
+| 🧪 [Playwright & Api Testing](https://github.com/AnaCenteno-DA/pro_automation_1)  |  Playwright, TypeScript, APIs | Intergration Testings | ✅ Completed  |
 
 ---
 
