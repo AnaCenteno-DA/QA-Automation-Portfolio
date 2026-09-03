@@ -106,7 +106,7 @@ This portfolio demonstrates experience and hands-on practice with:
 
 | Project                                 | Technologies               | What It Demonstrates                                        | Status         |
 | --------------------------------------- | -------------------------- | ----------------------------------------------------------- | -------------- |
-| 🎭 [Playwright Enterprise Framework](https://github.com/AnaCenteno-DA/QA_Project1_PlayWright) | Playwright, TypeScript     | E2E automation, POM, reusable components, test architecture | ✅ Completed    |
+| 🎭 [Playwright E2E Automation Framework](https://github.com/AnaCenteno-DA/QA_Project1_PlayWright) | Playwright, TypeScript     | E2E automation, POM, reusable components, test architecture | ✅ Completed    |
 | 📬 [API Testing with Postman](https://github.com/AnaCenteno-DA/QA_API_Testing_Postman)        | Postman, REST APIs         | API validation, assertions, environments and test scripts   | ✅ Completed    |
 | ⚡ [Performance Testing with k6](https://github.com/AnaCenteno-DA/Performance_Testing_K6)      | k6, JavaScript             | Smoke, Load, Stress, Spike and Soak testing                 | ✅ Completed    |
 | 🔄 [GitHub Actions CI/CD](https://github.com/AnaCenteno-DA/QA_Automation_CI_CD)            | GitHub Actions, Playwright | Automated test execution and CI workflows                   | ✅ Completed    |
