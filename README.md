@@ -114,7 +114,7 @@ This portfolio demonstrates experience and hands-on practice with:
 | 🤖 AI & LLM Testing                     | AI/LLM tools               | AI application and LLM testing strategies                   | 🚧 In Progress |
 | 🧪 [Playwright & Api Testing](https://github.com/AnaCenteno-DA/pro_automation_1)  |  Playwright, TypeScript, APIs | Intergration Testings | ✅ Completed  |
 | 🧪 [Contrator Integration Testing](https://github.com/AnaCenteno-DA/contractor-integration-testing/tree/main)  |  Playwright, TypeScript, APIs | Intergration Testings | ✅ Completed  |
-
+| 🧪 [Authentication and Authorization](https://github.com/AnaCenteno-DA/authentication-authorization-testing) |  Playwright, TypeScript | Testing | ✅ Completed  |
 ---
 
 # 🎭 1. Playwright Enterprise Framework
