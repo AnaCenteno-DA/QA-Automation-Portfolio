@@ -115,6 +115,7 @@ This portfolio demonstrates experience and hands-on practice with:
 | 🧪 [Playwright & API Testing](https://github.com/AnaCenteno-DA/pro_automation_1)  |  Playwright, TypeScript, APIs | Integration Testings | ✅ Completed  |
 | 🧪 [Contractor Integration Testing](https://github.com/AnaCenteno-DA/contractor-integration-testing/tree/main)  |  Playwright, TypeScript, APIs | Integration Testings | ✅ Completed  |
 | 🧪 [Authentication and Authorization](https://github.com/AnaCenteno-DA/authentication-authorization-testing) |  Playwright, TypeScript | Testing | ✅ Completed  |
+| 🧪 Data-Driven Testing with Playwright  | Playwright, TypeScript, JSON | Parameterized tests, reusable test data and automated validation | 🚧 In Progress   |
 ---
 
 # 🎭 1. Playwright Enterprise Framework
