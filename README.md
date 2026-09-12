@@ -111,7 +111,7 @@ This portfolio demonstrates experience and hands-on practice with:
 | ⚡ [Performance Testing with k6](https://github.com/AnaCenteno-DA/Performance_Testing_K6)      | k6, JavaScript             | Smoke, Load, Stress, Spike and Soak testing                 | ✅ Completed    |
 | 🔄 [GitHub Actions CI/CD](https://github.com/AnaCenteno-DA/QA_Automation_CI_CD)            | GitHub Actions, Playwright | Automated test execution and CI workflows                   | ✅ Completed    |
 | 📱 [Mobile Automation with Appium](https://github.com/AnaCenteno-DA/QA_Mobile_Automation_Appium)   | Appium, Java, Android      | Native Android mobile test automation                       | ✅ Completed    |
-| 🤖 AI & LLM Testing                     | AI/LLM tools               | AI application and LLM testing strategies                   | 🚧 In Progress |
+| 🤖 [AI & LLM Testing](https://github.com/AnaCenteno-DA/ai-llm-testing)             | AI/LLM tools               | AI application and LLM testing strategies                   | ✅ Completed |
 | 🧪 [Playwright & API Testing](https://github.com/AnaCenteno-DA/pro_automation_1)  |  Playwright, TypeScript, APIs | Integration Testings | ✅ Completed  |
 | 🧪 [Contractor Integration Testing](https://github.com/AnaCenteno-DA/contractor-integration-testing/tree/main)  |  Playwright, TypeScript, APIs | Integration Testings | ✅ Completed  |
 | 🧪 [Authentication and Authorization](https://github.com/AnaCenteno-DA/authentication-authorization-testing) |  Playwright, TypeScript | Testing | ✅ Completed  |
